@@ -2,6 +2,7 @@ package com.example.yamagen.initial_app;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class Initial_App extends AppCompatActivity {
 
@@ -10,4 +11,5 @@ public class Initial_App extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_initial__app);
     }
+
 }
